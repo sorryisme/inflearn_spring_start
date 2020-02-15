@@ -23,4 +23,21 @@ TO-BO
   - HibernateTransactionManger
 - transactional Aspect 코드는 변하지 않는다
 
-###
+### 캐시
+
+- @Cacheable, @CacheEvict
+
+- CacheManager 
+  - JCacheManager
+  - ConcurrentMapCacheManager
+  - EhCacheCacheManager
+
+### 스프링 웹 MVC
+
+- Controller, RequestMapping
+
+- Servlet | Reactive
+
+- 톰캣, 제티, 네티, 언더토우
+
+  
